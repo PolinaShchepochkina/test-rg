@@ -1,0 +1,30 @@
+body {
+  background-color: steelblue;
+}
+
+.header {
+  margin: 50px 70px 0;
+  border: 1px solid white;
+}
+
+canvas {
+  display: flex;
+  margin: 0 auto;
+  width: 40%;
+}
+
+button {
+  position: absolute;
+  margin: 0 auto 50px;
+  width: 300px;
+  height: 40px;
+  left: 0;
+  right: 0;
+  background-color: white;
+  cursor: pointer;
+  border-radius: 5px;
+  border: 1px;
+  color: steelblue;
+  font-size: 18px;
+  font-weight: 600;
+}
